@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurba123456&label=Profile%20views&color=0e75b6&style=flat" alt="apurba123456" /> </p>
 
-- 🔭 I’m currently working on *Citicorp finance(US & SE LATA)*
+- 🔭 I’m currently working on *Citicorp finance(US & SE LATAM)*
 
 - 🌱 I’m currently learning *React JS,Spring Boot*
 
